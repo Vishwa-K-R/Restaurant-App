@@ -1,0 +1,6 @@
+{
+  "name": "DineFlow",
+  "description": "A real-time restaurant ordering, kitchen analytics, and live delivery tracking platform featuring a synchronized multi-actor workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
